@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Nobel laureate Ales Beliatski sentenced to 10 years in prison by Belarusian court - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMy9ldXJvcGUvYWxlcy1iaWFsaWF0c2tpLXNlbnRlbmNlZC1pbnRsL2luZGV4Lmh0bWzSAVNodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAzLzAzL2V1cm9wZS9hbGVzLWJpYWxpYXRza2ktc2VudGVuY2VkLWludGwvaW5kZXguaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T12:06:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Washington Post",
+      "title": "Nordstrom Canada closing all stores by June - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9idXNpbmVzcy8yMDIzLzAzLzAzL25vcmRzdHJvbS1jYW5hZGEtY2xvc2luZy1hbGwtc3RvcmVzL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T11:39:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Hill",
+      "title": "Florida man dies from brain-eating amoeba after rinsing sinuses with tap water: report - The Hill",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3N0YXRlLXdhdGNoLzM4ODE0NjctZmxvcmlkYS1tYW4tZGllcy1mcm9tLWJyYWluLWVhdGluZy1hbW9lYmEtYWZ0ZXItcmluc2luZy1zaW51c2VzLXdpdGgtdGFwLXdhdGVyLXJlcG9ydC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T11:38:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Hill",
+      "title": "Biden's decision on DC crime bill puts him in a bind - The Hill",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzg4MTY1Ny13aHktYmlkZW4tZGVjaWRlZC10by1zaWRlLXdpdGgtZ29wLWFuZC1ub3QtdmV0by1hLWRjLWNyaW1lLWJpbGwv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Reuters.com",
+      "title": "Russian mercenary boss says Bakhmut effectively surrounded - Reuters.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS91a3JhaW5lLWNsaW5ncy1iYWtobXV0LXVzLXJlYWRpZXMtNDAwLW1pbGxpb24tbmV3LW1pbGl0YXJ5LWFpZC0yMDIzLTAzLTAyL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T10:09:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Sky News Australia",
+      "title": "Harry and Meghan will claim to be 'victims' after Frogmore eviction: Douglas Murray - Sky News Australia",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiC0JBV2tfWHpfcU5BmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T10:07:32Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Greece train crash: Anger boils as audio released of driver being told to ignore red light - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMi9ldXJvcGUvZ3JlZWNlLXRyYWluLWNyYXNoLWxhcmlzc2EtcHJvdGVzdHMtaW50bC9pbmRleC5odG1s0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T09:40:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNBC",
+      "title": "Treasury yields decline as investors look to Fed speakers for policy hints - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDMvMDMvdXMtdHJlYXN1cnkteWllbGRzLWludmVzdG9ycy1sb29rLXRvLWZlZC1zcGVha2Vycy1mb3ItcG9saWN5LWhpbnRzLS5odG1s0gFsaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMDMvMDMvdXMtdHJlYXN1cnkteWllbGRzLWludmVzdG9ycy1sb29rLXRvLWZlZC1zcGVha2Vycy1mb3ItcG9saWN5LWhpbnRzLS5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T09:38:23Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Detroit News",
+      "title": "So close! Detroit Mercy's Davis falls three points shy of Maravich's scoring record - Detroit News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5kZXRyb2l0bmV3cy5jb20vc3Rvcnkvc3BvcnRzL2NvbGxlZ2UvMjAyMy8wMy8wMi9kZXRyb2l0LW1lcmN5cy1kYXZpcy1jb21lcy11cC10aHJlZS1wb2ludHMtc2hvcnQtb2YtbWFyYXZpY2hzLXNjb3JpbmctcmVjb3JkLzY5OTYzMTgyMDA3L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T08:56:17Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Reuters",
+      "title": "SpaceX capsule delivers latest four-member crew to International Space Station - Reuters",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xpZmVzdHlsZS9zY2llbmNlL2xhdGVzdC1mb3VyLW1lbWJlci1zcGFjZXgtY3Jldy1kb2Nrcy13aXRoLWludGVybmF0aW9uYWwtc3BhY2Utc3RhdGlvbi0yMDIzLTAzLTAzL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T07:47:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "DW (English)",
+      "title": "German chancellor goes to US feeling confident - DW (English)",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmR3LmNvbS9lbi9nZXJtYW4tY2hhbmNlbGxvci1nb2VzLXRvLXVzLWZlZWxpbmctY29uZmlkZW50L2EtNjQ4NjUzNTnSAU9odHRwczovL2FtcC5kdy5jb20vZW4vZ2VybWFuLWNoYW5jZWxsb3ItZ29lcy10by11cy1mZWVsaW5nLWNvbmZpZGVudC9hLTY0ODY1MzU5?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T07:11:47Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "WFAA",
+      "title": "DFW weather: A look at what severe storms brought to North Texas - WFAA",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiC2RCeGtsYnNrSXlzmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T04:43:10Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "USA TODAY",
+      "title": "Chaka Khan slams Mariah Carey, Adele, Mary J. Blige's high rankings on Rolling Stone list - USA TODAY",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9jZWxlYnJpdGllcy8yMDIzLzAzLzAyL2NoYWthLWtoYW4tc2hhZGVzLW1hcmlhaC1jYXJleS1hZGVsZS1tYXJ5LWotYmxpZ2Utcm9sbGluZy1zdG9uZS8xMTM4NzgwMTAwMi_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T04:13:29Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Yahoo Finance",
+      "title": "Stocks Set for Weekly Gain as Bonds Pause Declines: Markets Wrap - Yahoo Finance",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9hc2lhLXN0b2Nrcy1zZXQtcmlzZS13YWxsLTIyNTI1NDQzMi5odG1s0gFPaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvYXNpYS1zdG9ja3Mtc2V0LXJpc2Utd2FsbC0yMjUyNTQ0MzIuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T04:13:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Field Gulls",
+      "title": "2023 NFL Draft: Seattle Seahawks pre-draft visits tracker - Field Gulls",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZpZWxkZ3VsbHMuY29tLzIwMjMvMy8yLzIzNjIzMDY5L3NlYXR0bGUtc2VhaGF3a3MtMjAyMy1uZmwtZHJhZnQtY29tYmluZS12aXNpdHMtdHJhY2tlctIBcGh0dHBzOi8vd3d3LmZpZWxkZ3VsbHMuY29tL3BsYXRmb3JtL2FtcC8yMDIzLzMvMi8yMzYyMzA2OS9zZWF0dGxlLXNlYWhhd2tzLTIwMjMtbmZsLWRyYWZ0LWNvbWJpbmUtdmlzaXRzLXRyYWNrZXI?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T04:05:10Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "NBC Chicago",
+      "title": "Stomach Bug Cases Surging, Sending People to Emergency Rooms in Chicago Area - NBC Chicago",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS9uZXdzL2hlYWx0aC9oZWFsdGgtd2VsbG5lc3Mtc2NpZW5jZS1uZXdzL3N0b21hY2gtYnVnLWNhc2VzLXN1cmdpbmctc2VuZGluZy1wZW9wbGUtdG8tZW1lcmdlbmN5LXJvb21zLWluLWNoaWNhZ28tYXJlYS8zMDg1NjMzL9IBngFodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS9uZXdzL2hlYWx0aC9oZWFsdGgtd2VsbG5lc3Mtc2NpZW5jZS1uZXdzL3N0b21hY2gtYnVnLWNhc2VzLXN1cmdpbmctc2VuZGluZy1wZW9wbGUtdG8tZW1lcmdlbmN5LXJvb21zLWluLWNoaWNhZ28tYXJlYS8zMDg1NjMzLz9hbXA9MQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T02:17:28Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "WJW FOX 8 News Cleveland",
+      "title": "‘Historic for this new generation’: New Easter Island statue found in dry lake - WJW FOX 8 News Cleveland",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZm94OC5jb20vbmV3cy9oaXN0b3JpYy1mb3ItdGhpcy1uZXctZ2VuZXJhdGlvbi1uZXctZWFzdGVyLWlzbGFuZC1zdGF0dWUtZm91bmQtaW4tZHJ5LWxha2Uv0gFmaHR0cHM6Ly9mb3g4LmNvbS9uZXdzL2hpc3RvcmljLWZvci10aGlzLW5ldy1nZW5lcmF0aW9uLW5ldy1lYXN0ZXItaXNsYW5kLXN0YXR1ZS1mb3VuZC1pbi1kcnktbGFrZS9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T01:54:57Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Greenville News",
+      "title": "Alex Murdaugh guilty on two counts of murder in deaths of wife, son - Greenville News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5ncmVlbnZpbGxlb25saW5lLmNvbS9zdG9yeS9uZXdzL2NyaW1lLzIwMjMvMDMvMDIvYWxleC1tdXJkYXVnaC1ndWlsdHktdmVyZGljdC1mb3JtZXItc2MtYXR0b3JuZXktdXBkYXRlcy1qdXJ5LXRyaWFsLWRvdWJsZS1tdXJkZXItbWFnZ2llLXBhdWwvNjk5NjI4ODQwMDcv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T01:45:06Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Travis Scott and his lawyer expected to meet with NYPD next week after assault accusation - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMi9lbnRlcnRhaW5tZW50L3RyYXZpcy1zY290dC1ueXBkL2luZGV4Lmh0bWzSAU1odHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAzLzAyL2VudGVydGFpbm1lbnQvdHJhdmlzLXNjb3R0LW55cGQvaW5kZXguaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T01:26:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "FOX Sports",
+      "title": "Why Lamar Jackson will win contract dispute with Ravens - FOX Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9uZmwvd2h5LWxhbWFyLWphY2tzb24td2lsbC13aW4tY29udHJhY3QtZGlzcHV0ZS13aXRoLXJhdmVuc9IBXWh0dHBzOi8vYW1wLmZveHNwb3J0cy5jb20vc3Rvcmllcy9uZmwvd2h5LWxhbWFyLWphY2tzb24td2lsbC13aW4tY29udHJhY3QtZGlzcHV0ZS13aXRoLXJhdmVucw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-03T01:03:00Z",
+      "content": null
+    }
+  ]
+}
